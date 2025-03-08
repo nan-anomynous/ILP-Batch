@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\indian\\source\\repos\\consoleapp2\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\indian\\source\\repos\\consoleapp2\\consoleapp2\\classlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\classlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\indian\\source\\repos\\consoleapp2\\consoleapp2\\interfacelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AD8280-F209-42A1-8AFF-C0BB9A41461F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\interfacelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InterfaceLogger.cs",
+              "DocumentMoniker": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\InterfaceLogger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\InterfaceLogger.cs",
+              "ToolTip": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\InterfaceLogger.cs",
+              "RelativeToolTip": "ConsoleApp2\\InterfaceLogger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:38:46.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassLogger.cs",
+              "DocumentMoniker": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\ClassLogger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ClassLogger.cs",
+              "ToolTip": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\ClassLogger.cs",
+              "RelativeToolTip": "ConsoleApp2\\ClassLogger.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T10:32:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\INDIAN\\Source\\Repos\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:43:01.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
