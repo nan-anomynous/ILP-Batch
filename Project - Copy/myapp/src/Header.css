@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    font-family: Arial;
+  }
+  
+
+  header {
+    background-color: #423232;
+    color: #fff;
+    padding: 1rem 0;
+  }
+  
+
+  .container {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+
+  header h1 {
+    margin: 25px;
+  }
+  
+ 
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+    color: #c2aaaa;
+  }
+  
